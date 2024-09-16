@@ -1,0 +1,34 @@
+Html tags
+	head
+	body	
+	hr
+	br
+	Img Src
+	anchor (a)
+	table 
+		<thead>
+		<tbody>
+
+VS Code
+	Extension | Live Server 
+	Created the files in the VS code
+
+Tag property 
+	opening and closing 
+
+Semantic Tags
+	head
+	body
+	footer
+	header
+	aside
+	table
+	
+
+GitHub
+	similar
+		GitLab
+		bitbucket
+
+
+	
