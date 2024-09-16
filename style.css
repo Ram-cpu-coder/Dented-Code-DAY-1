@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: white;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+.hr{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.description{
+    /* border: 2px solid red; */
+    text-align: center;
+    justify-content: center;
+}
